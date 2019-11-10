@@ -1,0 +1,62 @@
+v6.0
+====
+
+Updating to latest version of React Boilerplate v4.0.0
+
+https://github.com/react-boilerplate/react-boilerplate/tree/v4.0.0
+
+Updating to latest version of material-ui v4.4.3
+
+https://github.com/mui-org/material-ui/releases
+
+v5.0
+====
+
+Updating to latest version of React Boilerplate v3.7
+
+https://github.com/react-boilerplate/react-boilerplate/tree/v3.7.0
+
+Updating to latest version of material-ui v3.8.1
+
+https://github.com/mui-org/material-ui/releases
+
+v4.4
+====
+
+Updating material-ui library from version 3.2.0 to version 3.2.2
+
+https://github.com/mui-org/material-ui/releases
+
+Adding search input to the header
+
+Changing themes colors
+
+v4.3
+====
+
+Adding React Draft Wysiwyg npm library and demo page
+
+Adjusting CSS for header tabs navigation
+
+v4.2
+====
+
+Updating material-ui library from version 3.1.2 to version 3.2.0
+
+https://github.com/mui-org/material-ui/releases
+
+fixing typography variant promps
+
+v4.1
+====
+
+Updating material-ui library from version 3.1.1 to version 3.1.2
+
+https://github.com/mui-org/material-ui/releases
+
+v4.0
+====
+
+New version release, based on: 
+react boilerplate v3.6 
+Material-UI v3.1.1
